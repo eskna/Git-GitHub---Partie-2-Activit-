@@ -1,2 +1,2 @@
 # Git-GitHub---Partie-2-Activit-
-Exercice du cours d'OC
+Un premier fichier texte contenant des citations et un second fichier texte répertoriant les livres utilisés dans citations.txt
